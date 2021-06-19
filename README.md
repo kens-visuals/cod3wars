@@ -37,24 +37,6 @@ But if you found this repo, then you're probably one of these people:
     ↳ index.test.js       
 ```
 
-## Codewars Kata Levels
-
-Kyu       | Difficulty
---------- | ------------
-8 Kyu ⬜️  | Beginner
-7 Kyu ⬜️  | Beginner
-6 Kyu 🟨  | Novice
-5 Kyu 🟨  | Novice
-4 Kyu 🟦  | Competent
-3 Kyu 🟦  | Competent
-2 Kyu 🟪  | Proficient
-1 Kyu 🟪  | Proficient
-1 Dan ⬛️  | Expert
-2 Dan ⬛️  | Expert
-3 Dan ⬛️  | Expert
-4 Dan ⬛️  | Expert
-
-
 <h3 id="table">Name Convention Guide</h3> 
 
 NORMAL       | CHANGED
