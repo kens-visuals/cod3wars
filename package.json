@@ -1,0 +1,23 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "codewars solutions",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kens-visuals/codewars.git"
+  },
+  "author": "kens-visuals",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kens-visuals/codewars/issues"
+  },
+  "homepage": "https://github.com/kens-visuals/codewars#readme",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
