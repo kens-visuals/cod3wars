@@ -27,17 +27,17 @@ But if you found this repo, then you're probably one of these people:
 ## Repository Map
 
 ```
-- 8kyu_⬜️
-  ↳ kata_nam3
+- 8kyu_⬜️/
+  ↳ kata_nam3/
     ↳ index.js
     ↳ index.test.js
-- 7kyu_⬜️
-  ↳ anoth3r_kata_nam3
+- 7kyu_⬜️/
+  ↳ anoth3r_kata_nam3/
     ↳ index.js
     ↳ index.test.js       
 ```
 
-## Codewars kata levels
+## Codewars Kata Levels
 
 Kyu       | Difficulty
 --------- | ------------
@@ -55,7 +55,7 @@ Kyu       | Difficulty
 4 Dan ⬛️  | Expert
 
 
-<h3 id="table">Name convention guide</h3> 
+<h3 id="table">Name Convention Guide</h3> 
 
 NORMAL       | CHANGED
 ------------ | -------------
