@@ -5,7 +5,7 @@
 I'm purposely using this name conventions from Mr. Robot TV show ([see ref. table](#table "Goto table")), so that it's hard for users to find my solutions on Google.  
 But if you found this repo, then you're probably one of these people:
 - [ ] You just spent too much time watching Mr. Robot, Bonsoir Eliot 🙋🏻‍♂️
-- [ ] You are desperately looking for solutions of a kata♂️
+- [ ] You are desperately looking for solutions of a kata
 - [ ] You just surf GitHub all day, every day 
 - [ ] All the above
 
@@ -36,24 +36,6 @@ But if you found this repo, then you're probably one of these people:
     ↳ index.js
     ↳ index.test.js       
 ```
-
-## Codewars Kata Levels
-
-Kyu       | Difficulty
---------- | ------------
-8 Kyu ⬜️  | Beginner
-7 Kyu ⬜️  | Beginner
-6 Kyu 🟨  | Novice
-5 Kyu 🟨  | Novice
-4 Kyu 🟦  | Competent
-3 Kyu 🟦  | Competent
-2 Kyu 🟪  | Proficient
-1 Kyu 🟪  | Proficient
-1 Dan ⬛️  | Expert
-2 Dan ⬛️  | Expert
-3 Dan ⬛️  | Expert
-4 Dan ⬛️  | Expert
-
 
 <h3 id="table">Name Convention Guide</h3> 
 
