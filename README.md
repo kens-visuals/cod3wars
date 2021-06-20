@@ -5,7 +5,7 @@
 I'm purposely using this name conventions from Mr. Robot TV show ([see ref. table](#table "Goto table")), so that it's hard for users to find my solutions on Google.  
 But if you found this repo, then you're probably one of these people:
 - [ ] You just spent too much time watching Mr. Robot, Bonsoir Eliot 🙋🏻‍♂️
-- [ ] You are desperately looking for solutions of a kata♂️
+- [ ] You are desperately looking for solutions of a kata
 - [ ] You just surf GitHub all day, every day 
 - [ ] All the above
 
