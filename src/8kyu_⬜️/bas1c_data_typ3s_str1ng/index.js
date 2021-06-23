@@ -64,5 +64,3 @@ const answer2 = () => "no";
 const answer3 = () => "yes";
 
 module.exports = Dad;
-module.exports = Bee;
-module.exports = banana;
