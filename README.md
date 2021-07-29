@@ -18,7 +18,7 @@ But if you found this repo, then you're probably one of these people:
 
 [Codewars Terms of Service](https://www.codewars.com/about/terms-of-service)
 
-## Introduction
+## About Me
 
 
 > Hi I'm Ken 👨🏻‍💻, I'm a Front-End developer and JS 🟨 nerd. I have been solving challanges on Codewars since the beginning of my learning journey. I've created this repository for educational purposes, as well as to show my skills in JS. I hope I can teach you some new JS skills and tricks. As mentioned above it's discouraged to check the answers before solving the challenge (kata) on your own, because at the end of the day you're trying to practice and learn something. So I wish you happy coding and hope you enjoy your programming journey! 👾
